@@ -1,1 +1,1 @@
-<my-component></my-component>
+<my-component addReachBottomListener="{{addReachBottomListener}}" removeReachBottomListener="{{removeReachBottomListener}}"></my-component>
