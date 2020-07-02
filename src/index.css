@@ -1,0 +1,18 @@
+.tab-container {
+  padding: 20rpx;
+  background: #ddd;
+  font-size: 16px;
+  flex-direction: row;
+}
+
+.tab-item {
+  flex: 1;
+}
+
+.tab-active-item {
+  color: #FF4B00
+}
+
+.list {
+  width: 100vw;
+}
